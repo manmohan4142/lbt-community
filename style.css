@@ -1,0 +1,27 @@
+body{
+    background-color: #ffd7c6;
+}
+
+#Prow {
+
+   position: absolute;
+   top: 1030px;
+   left: 600px;
+
+}
+
+#images {
+  width: 700px;
+  height: 200px;
+  border: 5px solid black;
+}
+
+.button{
+  width:200px;
+  background-color: lightgrey;
+}
+
+.button1{
+  width:200px;
+  background-color: lightgrey;
+}
